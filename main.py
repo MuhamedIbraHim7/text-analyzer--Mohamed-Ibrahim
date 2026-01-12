@@ -1,6 +1,6 @@
 """
 Text Analyzer - Analyzes text and returns statistics
-Author: Mohamed Ibrahim
+
 """
 
 import re
