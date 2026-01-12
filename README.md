@@ -35,7 +35,7 @@ This analyzer provides:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<yourname>/text-analyzer--<yourname>.git
+git clone https://github.com/MuhamedIbraHim7/text-analyzer--Mohamed-Ibrahim.git
 cd text-analyzer--Mohamed-Ibrahim
 ```
 
