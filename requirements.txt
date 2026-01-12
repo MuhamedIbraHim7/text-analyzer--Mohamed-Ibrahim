@@ -1,0 +1,11 @@
+# This project uses only Python's standard library.
+# No external packages are required. 
+Python==3.12.7
+
+# If you want to extend this project with additional features,
+# you might consider these optional packages:
+nltk==3.8.1              # Natural Language Toolkit (for advanced NLP)
+spacy==3.7.2             # Industrial-strength NLP
+textblob==0.17.1         # Simplified text processing
+wordcloud==1.9.3         # Generate word clouds
+matplotlib==3.8.2        # Visualize frequency distributions
