@@ -3,7 +3,7 @@
 A Python-based text analysis tool that provides comprehensive statistics about text documents.
 
 ## 👨‍💻 Author
-**Mohamed Ibrahim** - AI Engineer @ Neqabty
+**Mohamed Ibrahim** - AI Engineer
 
 ## 🎯 Features
 
@@ -36,7 +36,7 @@ This analyzer provides:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/<yourname>/text-analyzer--<yourname>.git
-cd text-analyzer--<yourname>
+cd text-analyzer--Mohamed-Ibrahim
 ```
 
 ### 2. Install dependencies (if any)
@@ -64,13 +64,13 @@ python main.py
 ### Expected Output
 ```
 ==================================================
-📊 TEXT ANALYSIS RESULTS
+TEXT ANALYSIS RESULTS
 ==================================================
 
-📝 Total Words: 185
-📄 Total Sentences: 28
+Total Words: 185
+Total Sentences: 28
 
-🔥 Top 10 Most Frequent Words:
+Top 10 Most Frequent Words:
 --------------------------------------------------
  1. ai                  →   8 times
  2. and                 →   7 times
@@ -184,9 +184,6 @@ with open('sample_text.txt', 'r', encoding='utf-8') as file:
 ### Collections Module
 - [Counter Documentation](https://docs.python.org/3/library/collections.html#collections.Counter)
 
-## 📝 License
-
-This project is open source and available for educational purposes.
 
 ## 🤝 Contributing
 
@@ -194,5 +191,4 @@ Feel free to fork this repo and submit pull requests for improvements!
 
 ---
 
-**Built with ❤️ by Mohamed Ibrahim**  
-*AI Engineer | Neqabty | ENGO Misr*
+**Built by Mohamed Ibrahim**  
